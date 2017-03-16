@@ -1,0 +1,29 @@
+div.section {
+	height: 530px;
+    width: 300px;
+    border-right: 1px solid black;
+    padding: 25px;
+    margin: 0px;
+}
+h1 {
+text-align: center;
+}
+
+div.aside {
+	float: right;
+	position: absolute;
+	top: 250px;
+    left: 400px;
+    width: 1000px;
+    height: 5px;
+	
+	}
+div.aside2 {
+	float: right;
+	position: absolute;
+	top: 450px;
+    left: 400px;
+    width: 1000px;
+    height: 5px;
+	
+	}
